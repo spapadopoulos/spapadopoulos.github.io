@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Sokratis Papadopoulo' \
-description:	       'PhD Candidate'
+title:		           'Sokratis Papadopoulos' 
+description:	       'PhD Candidate @ NYU'
 author:              'Paul Le'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

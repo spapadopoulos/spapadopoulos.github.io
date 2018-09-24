@@ -1,10 +1,15 @@
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="https://github.com/LeNPaul/Lagrange/">Lagrange</a> theme.</span>
-
+<footer class="footer">
+  {% include social-icons.html %}
+  <div class="post-date"><a {{ site.time | date: '%Y' }} {{ site.owner.name }} | Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="https://github.com/LeNPaul/Lagrange/">Lagrange</a> theme.</a></div>
+</footer>
 
 <!---
 <footer class="footer">
   {% include social-icons.html %}
   <div class="post-date"><a href="{{ site.github.url }}/menu/about.html">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
 </footer>
+
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="https://github.com/LeNPaul/Lagrange/">Lagrange</a> theme.</span>
+
 
 -->

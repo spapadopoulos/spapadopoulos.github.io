@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float: left;" src="{{ site.url }}/assets/img/3254 circle.png" style="width:300px;height:300px;">
+<img style="float: left;" src="{{ site.url }}/assets/img/3254 circle.png" style="width:362px;height:241px;">
 
 Enter bio here.
 

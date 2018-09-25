@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: {{ site.url }}/assets/img/3254 circle.png
 ---
 
 <img style="width:362px;height:241px;" src="{{ site.url }}/assets/img/3254 circle.png" class="center">

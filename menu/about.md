@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<img style="float: left;" src="3254 circle.png">
+<img style="float: left;" src="{{ site.url }}/assets/img/3254 circle.png">
 
-Enter bio here
+Enter bio here.
 
 
 

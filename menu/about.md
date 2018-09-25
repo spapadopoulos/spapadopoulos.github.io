@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <div>
-<p style="float: left; clear: left"><img src="{{ site.url }}/assets/img/bnw_lowres.png" </p>
+<p style="float: left; clear: left"><img src="{{ site.url }}/assets/img/3254sq1.png" height="200px" width="200px" border="1px </p>
 <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
 

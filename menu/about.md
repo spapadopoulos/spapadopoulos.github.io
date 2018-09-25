@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-<div style="text-align:center"><img src ="{{ site.url }}/assets/img/bnw_lowres.png" style="width:500px;height:350px;"/></div>
+<p style="float: left; clear: left"><img src="{{ site.url }}/assets/img/bnw_lowres.png" border="1px"></p>
+<p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
 
@@ -15,6 +16,8 @@ No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam ef
 
 
 <!---
+
+<div style="text-align:center"><img src ="{{ site.url }}/assets/img/bnw_lowres.png"/></div>
 
 ---
 layout: page

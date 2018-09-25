@@ -2,9 +2,12 @@
 layout: page
 title: About
 ---
+<p> <img style="padding: 0 15px; float: left;" src ="{{ site.url }}/assets/img/bnw.png" height="400px" width="270px /> </p>
+<p style="margin-top: 20px;"> </p>
 
-<div style="text-align:center"><img src ="{{ site.url }}/assets/img/bnw.png" height="400px" width="270px"></div>
-
+ 
+<p> kokeokokokokwefhiuhuhfeinweiufw wfwuhfffjfweionwefnioewfwjfoiwe wefijwefiowejfwefoewjfiowefj wefijwfoiejwfoiwefjwo jweoifjwoiefjfjiwoi wfijwoiefjeoi </p>
+  
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
 
 No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
@@ -17,6 +20,8 @@ No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam ef
 layout: page
 title: Welcome to Lagrange!
 ---
+
+<div style="text-align:center"><img src ="{{ site.url }}/assets/img/bnw.png" height="400px" width="270px"></div>
 
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 

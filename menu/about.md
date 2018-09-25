@@ -3,7 +3,12 @@ layout: page
 title: About
 ---
 
+<img style="float: left;" src="whatever.jpg">
+
 Enter bio here
+
+
+
 
 <!---
 

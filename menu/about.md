@@ -4,7 +4,7 @@ title: About
 ---
 
 <span>
-<img src="{{ site.url }}/assets/img/3151 2.png" height="550px" width="320px" align="left">
+<img src="{{ site.url }}/assets/img/bnw.png" height="550px" width="320px" align="left">
 </span>
 
 

@@ -8,7 +8,7 @@ title: About
 
 I am a Ph.D. Candidate in Urban Systems & Informatics at New York University. Also, I am a researcher in the <a href="http://www.urbanintelligencelab.org/">Urban Intelligence Lab</a> at NYU Center for Urban Science + Progress. 
 
-I am passionate about urban science and informatics research, addressing the environmental, economic, and social issues of cities.   
+I am passionate about urban science and informatics research, addressing the environmental, economic, and social issues of cities. My recent projects include leveraging machine learning and big data to identify patterns in urban energy consumption, develop robust and fair building energy performance metrics, and assess the effectiveness of existing policy frameworks for carbon reduction in cities.     
 
 No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
 

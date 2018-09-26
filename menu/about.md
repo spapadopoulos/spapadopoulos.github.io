@@ -5,6 +5,23 @@ title: About
 
 <img src="{{ site.url }}/assets/img/3151 2.png" Hspace="0" Vspace="0" height="550px" width="320px" align="left">
 
+<style>
+
+div#box{
+    width: 100%;
+}
+img#image {
+    float: right;
+}
+</style>
+
+<div id="box">
+    <span id="content">
+        Contents.
+    </span>
+    <img src="{{ site.url }}/assets/img/3151 2.png" alt="Image not available">
+</div>
+
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
 

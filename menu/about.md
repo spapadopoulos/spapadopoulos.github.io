@@ -6,7 +6,7 @@ title: About
 <img src="{{ site.url }}/assets/img/bnw2.png" height="250px" width="150px" align="left" style="margin-right: 20px;">
 
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+I am a Ph.D. Candidate in Urban Systems & Informatics at New York University. Also, I am a researcher in the <a href="http://www.urbanintelligencelab.org/">Urban Intelligence Lab</a> at NYU Center for Urban Science + Progress. 
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
 

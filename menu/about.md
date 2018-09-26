@@ -3,11 +3,8 @@ layout: page
 title: About
 ---
 
-<img src="{{ site.url }}/assets/img/3151 2.png" Hspace="0" Vspace="0" height="550px" width="320px" align="left">
-
 <span>
-//content
-<img src="i{{ site.url }}/assets/img/3151 2.png" style="float:left">
+<img src="{{ site.url }}/assets/img/3151 2.png" style="float:left">
 </span>
 
 

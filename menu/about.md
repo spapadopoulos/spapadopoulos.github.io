@@ -4,8 +4,10 @@ title: About
 ---
 
 <span>
-<img src="{{ site.url }}/assets/img/bnw.png" height="550px" width="320px" align="left" margin-right:0px>
+<img src="{{ site.url }}/assets/img/bnw.png" height="550px" width="320px" align="left" >
 </span>
+
+<p style="margin-right: 0px;"> </p>
 
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.

@@ -12,7 +12,7 @@ I am passionate about urban science and informatics research, addressing the env
 
 Prior to joining NYU, I received my M.S. in Engineering Systems & Management from Masdar Institute (in collaboration with Massachusetts Institute of Technology). My differential experience from Europe, Middle East and the US, fascinates me to further study the complex socio-technical challenges each city faces. 
 
-My detailed CV is available <a href="{{ site.url }}/assets/img//assets/img/dummy.pdf">here</a>.
+My detailed CV is available <a href="{{ site.url }}/assets/img/dummy.pdf">here</a>.
 
 
 

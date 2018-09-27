@@ -12,7 +12,7 @@ Passionate about urban science and informatics research, I strive to address the
 
 Prior to joining NYU, I received my M.S. in Engineering Systems & Management from Masdar Institute in Abu Dhabi, UAE (in collaboration with Massachusetts Institute of Technology). 
 
-My diverse experience from Europe, Middle East and the US, has inspired me to further study the complex socio-technical challenges cities worldwide face. 
+My diverse experience of Europe, Middle East and the US, has inspired me to further study the complex socio-technical challenges cities worldwide face. 
 
 Find my detailed CV <a href="{{ site.url }}/assets/img/dummy.pdf">here</a>.
 

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="{{ site.url }}/assets/img/3151 2.png" height="250px" width="250px" align="left" style="margin-right: 0px;">
+<img src="{{ site.url }}/assets/img/3151 2 copy.png" height="250px" width="250px" align="left" style="margin-right: 0px;">
 
 
 I am a Ph.D. Candidate in Urban Systems & Informatics at New York University. Also, I am a researcher in the <a href="http://www.urbanintelligencelab.org/">Urban Intelligence Lab</a> at NYU Center for Urban Science + Progress.

@@ -4,8 +4,7 @@ title: Contact
 ---
 
 
-You can connect with me on <a href="{https://www.linkedin.com/in/sokratis-papadopoulos/" target="_blank">LinkedIn</a> or <a href="{https://github.com/spapadopoulos" target="_blank">GitHub</a>
-
+You can connect with me on <a href="https://www.linkedin.com/in/sokratis-papadopoulos/" target="_blank">LinkedIn</a> or <a href="https://github.com/spapadopoulos" target="_blank">GitHub</a>
 
 
 

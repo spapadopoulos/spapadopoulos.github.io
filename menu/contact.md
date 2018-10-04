@@ -7,10 +7,6 @@ title: Contact
 You can connect with me on <a href="https://www.linkedin.com/in/sokratis-papadopoulos/" target="_blank">LinkedIn</a> or <a href="https://github.com/spapadopoulos" target="_blank">GitHub</a>.
 
 
-<a href="https://scholar.google.ae/citations?user=ZbefF6QAAAAJ&hl=en" target="_blank">Google Scholar</a>
-
-
-
 <!---
 If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
 

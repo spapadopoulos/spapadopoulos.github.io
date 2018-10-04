@@ -7,6 +7,8 @@ title: Contact
 You can connect with me on <a href="https://www.linkedin.com/in/sokratis-papadopoulos/" target="_blank">LinkedIn</a> or <a href="https://github.com/spapadopoulos" target="_blank">GitHub</a>.
 
 
+<a href="https://scholar.google.ae/citations?user=ZbefF6QAAAAJ&hl=en" target="_blank">Google Scholar</a>
+
 
 
 <!---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tracking literature emotions through time"
+title: "Patterns in emotion expression in literature"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]

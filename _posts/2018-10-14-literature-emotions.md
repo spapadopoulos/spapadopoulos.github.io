@@ -139,7 +139,7 @@ for lang in ['eng', 'ger']:
         os.chdir('..')
 ```
 
-Great, we were able to extract all the emotion-related words from almost 20GB of data! Now we can compute means and z-scores (see this [notebook](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/scripts/analysis.ipynb)) and visualize the results. 
+Great, we were able to extract all the emotion-related words from almost 20GB of data! Now we can compute means and z-scores (see this [notebook](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/scripts/analysis.ipynb) for details) and visualize the results. 
 
 Interestingly, emotion in literature reflects the general mood associated with historic events. Look, for instance, the drop in positive emotions during WW2. We also notice that positive vs negative emotions fluctuate in English literature, unlike German which is quite steady over time with few spikes. 
 
@@ -152,3 +152,7 @@ Another interesting finding is that the overall emotion-related word usage drops
 Finally, I plot a breakdown of z-scores for each emotion. A couple of interesting things here. Look at the spike in the fear-related words in German literature right after the end of WW2. Also, see how anger-related words increase in English literature during this period. 
 
 ![](/assets/img/emotions_breakdown.png)
+
+## Summary
+
+In this post I analyzed trends in the use of emotion-related words in literature.  I show how to process large-scale text data in a computationally efficient way.

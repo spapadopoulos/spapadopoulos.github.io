@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expression of emotion in literature through big data"
+title: "Expression of emotions in literature through big data"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]

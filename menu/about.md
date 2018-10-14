@@ -14,15 +14,5 @@ Prior to joining NYU, I received my M.S. in Engineering Systems & Management fro
 
 My diverse experience of Europe, Middle East and the US, has inspired me to further study the complex socio-technical challenges cities worldwide face. 
 
-Find my detailed CV <a href="{{ site.url }}/assets/img/dummy.pdf" target="_blank">here</a>.
+Find my detailed CV <a href="{{ site.url }}/assets/img/cv.pdf" target="_blank">here</a>.
 
-
-
-
-
-<!---
-
-<div style="text-align:center"><img src ="{{ site.url }}/assets/img/bnw.png" height="400px" width="270px"></div>
-
-250x150 margin 20
--->

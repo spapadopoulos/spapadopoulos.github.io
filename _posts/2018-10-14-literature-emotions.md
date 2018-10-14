@@ -141,6 +141,7 @@ Great, we were able to extract all the emotion-related words from almost 20GB of
 
 Interestingly, emotion in literature reflects the general mood associated with historic events. Look, for instance, the drop in positive emotions during WW2. We also notice that positive vs negative emotions fluctuate in English literature, unlike German which is quite steady over time with few spikes. 
 
+![](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/output/joy_sadness.png)
 ![alt text](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/output/joy_sadness.png)
 
 Another interesting finding is that the overall emotion-related word usage drops steadily through time for English literature. This is not the case for German literature, which shows increasing emotion usage, especially after the 1950s.   

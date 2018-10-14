@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tracking emotions in literature through time"
+title: "Tracking literature emotions through time"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]

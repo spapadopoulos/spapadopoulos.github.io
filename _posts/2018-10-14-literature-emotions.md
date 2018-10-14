@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: books.jpg
 ---
 
-In this post, inspired by [this very interesting paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0059030&type=printable), I process Google 1-grams to analyze patterns in English and German 20th century literature emotions.
+In this post, inspired by [this very interesting work](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0059030&type=printable), I process Google 1-grams to analyze patterns in English and German 20th century literature emotions.
 
 I tried to replicate the paper's results and extend the method to other languages. I am showing how to process large-scale text data using functional programming and without loading entire files in memory. Let's get started!
 

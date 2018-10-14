@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Literature emotion expression through time"
+title: "Expression of emotion in literature through big data"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]
@@ -13,7 +13,7 @@ I try to replicate the paper's results and extend the method to other languages.
 
 Let's get started!
 
-First, we pull the English emotion-related lexicons from the [WordNet-Affect](https://github.com/kylehg/sentiment-analysis/tree/master/lexicons/wordnet) project. Then we call [Google Translate API](https://py-googletrans.readthedocs.io/en/latest/) to translate them in German.
+First, we pull the English emotion-related lexicons from the [WordNet-Affect](https://github.com/kylehg/sentiment-analysis/tree/master/lexicons/wordnet) project. Then, we call the [Google Translate API](https://py-googletrans.readthedocs.io/en/latest/) to translate the lexicons in German.
 
 ```python
 translator = Translator()
@@ -45,7 +45,7 @@ for emotion in listOfEmotions:
         emotionD_ger[emotion] = [[u'das']]
 ```
 
-Now we have two dictionaries, an English and a German, including the words associated with all six emotions we analyze. Let's download Google 1-gram data for all the books published in the 20th century.
+Now we have two dictionaries, an English and a German, including the words associated with all six emotions we analyze. Let's download the 1-grams included in all the books published during the 20th century.
 
 ```python
 # Create directories to store the .csv files
@@ -141,7 +141,7 @@ for lang in ['eng', 'ger']:
 
 Great, we were able to extract all the emotion-related words from almost 20GB of data! Now we can compute means and z-scores (see this [notebook](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/scripts/analysis.ipynb) for details) and visualize the results. 
 
-Interestingly, emotion in literature reflects the general mood associated with historic events. Look, for instance, the drop in positive emotions during WW2. We also notice that positive vs negative emotions fluctuate in English literature, unlike German which is quite steady over time with few spikes. 
+We can see evidence that emotion in literature reflects the general mood associated with historic events. Look, for instance, the drop in positive emotions during WW2. We also notice that positive vs negative emotions fluctuate in English literature, unlike German which is quite steady over time with few spikes. 
 
 ![](/assets/img/joy_sadness.png)
 
@@ -155,4 +155,6 @@ Finally, I plot a breakdown of z-scores for each emotion. A couple of interestin
 
 ## Summary
 
-In this post I analyzed trends in the use of emotion-related words in literature.  I show how to process large-scale text data in a computationally efficient way.
+In this post I analyzed trends in the use of emotion-related words in literature. I show how to process large-scale text data in a computationally efficient manner.
+
+Plotting the results reveals interesting associations between emotion and historical events, as well as differential patterns over time between English and German literature.

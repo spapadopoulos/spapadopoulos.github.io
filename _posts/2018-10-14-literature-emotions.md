@@ -157,4 +157,4 @@ Finally, I plot a breakdown of z-scores for each emotion. A couple of interestin
 
 In this post I analyzed trends in the use of emotion-related words in literature. I show how to process large-scale text data in a computationally efficient manner.
 
-Plotting the results reveals interesting associations between emotion and historical events, as well as differential patterns over time between English and German literature. You can find the full code is [this GitHub repository](https://github.com/spapadopoulos/EmotionsInLiterature).
+Plotting the results reveals interesting associations between emotion and historical events, as well as differential patterns over time between English and German literature. You can find the full code in [this GitHub repository](https://github.com/spapadopoulos/EmotionsInLiterature).

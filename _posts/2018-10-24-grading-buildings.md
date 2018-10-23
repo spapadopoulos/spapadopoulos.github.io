@@ -33,7 +33,7 @@ With these four points in mind we develop the GREEN index, a city-specific energ
 ## The findings 
 When we fit our GREEN model on NYC data and compare it with its equivalent Energy Star, we are not surprised by the results.
 
-![](/assets/img/XGB_model_vESS.png)
+<img src="/assets/img/XGB_model_vESS.png" width="800">
 
 See how Energy Star is not capable of explaining any of the variance in the data. Practically, predicting energy use intensity using this model is no better than a "naive" model which always predicts the dataset's mean. On the other hand, our model explains more than 30% of the variability in the data. The rest of the variance is attributed to features that our model doesn't (and shouldn't) capture, such as occupant behavior and building systems' quality. 
 

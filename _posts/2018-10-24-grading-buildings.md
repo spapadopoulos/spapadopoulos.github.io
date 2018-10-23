@@ -13,8 +13,9 @@ These grades will be calculated based on Energy Star, the predominant energy ben
 
 ## The limitations of Energy Star
 __Model complexity -__ Energy Star is based on a linear regression model. However, the relationship between energy consumption and its predictors in many cases is found to be non-linear.
-__Data quality -__ The data used to train the model come with two major issues. First, the dataset is a nationwide sample, not accounting for spatial variations. In a [previous paper](https://ascelibrary.org/doi/abs/10.1061/9780784481219.030), we show that the relationship between features, such as age or gross floor area, and building energy consumption varies across different geographic regions. 
-Second, the model is trained on small data samples. Specifically, for the residential building model that we analyze below, Energy Star is fitted on 322 examples, whereas the benchmarking policies of NYC only have resulted to more than 7,500 reported properties.
+
+__Data quality -__ The data used to train the model come with two major issues. First, the dataset is a nationwide sample, not accounting for spatial variations. In a [previous paper](https://ascelibrary.org/doi/abs/10.1061/9780784481219.030), we show that the relationship between features, such as age or gross floor area, and building energy consumption varies across different geographic regions. Second, the model is trained on small data samples. Specifically, for the residential building model that we analyze below, Energy Star is fitted on 322 examples, whereas the benchmarking policies of NYC only have resulted to more than 7,500 reported properties.
+
 __Limited features -__ The model accounts for five features, neglecting important physical, operational, and qualitative aspects associated with energy consumption. 
 
 ## The need for a paradigm shift

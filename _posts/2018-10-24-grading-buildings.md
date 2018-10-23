@@ -9,7 +9,7 @@ image: methodology_stages_light.png
 
 As the discussion on the effects of anthropogenic climate change builds up, local and federal governments worldwide are designing policies to "green" existing building stocks. Recently, New York City enacted a [law](https://www.ny-engineers.com/blog/new-york-city-building-energy-grades) mandating large building owners to publicly display their energy performance grades, as a means to increase the appreciation of sustainability in the real estate market and promote energy efficiency investments. 
 
-These grades will be calculated based on Energy Star, the predominant energy benchmarking methodology in the US. My [latest paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X), that was recently published in _Applied Energy_, shows that grading buildings on energy performance is a complex problem and Energy Star method's simplicity is not sufficient to address it. Having identified the limitations of Energy Star, we go one step further and propose a new grading methodology leveraging machine learning and city-benchmarking energy data to reduce uncertainty.
+These grades will be calculated based on Energy Star, the predominant energy benchmarking methodology in the US. [My latest paper](https://www.sciencedirect.com/science/article/pii/S030626191831612X) shows that grading buildings on energy performance is a complex problem and how Energy Star method's simplicity is not sufficient to address it. Having identified the limitations of Energy Star, we go one step further and propose a new grading methodology leveraging machine learning and city-benchmarking energy data to reduce uncertainty.
 
 
 ## The limitations of Energy Star
@@ -35,7 +35,7 @@ When we fit our GREEN model on NYC data and compare it with its equivalent Energ
 
 ![](/assets/img/XGB_model_vESS.png)
 
-See how Energy Star is not capable of explaining any of the variance in the data. Practically, predicting energy use intensity using this model is no better than a "naive" model that always outputs the mean of the dataset. On the other hand our model explains more than 30% of the variability in the data. The rest of the variance is attributed to features that our model doesn't (and shouldn't) capture, such as occupant behavior and building systems' quality. 
+See how Energy Star is not capable of explaining any of the variance in the data. Practically, predicting energy use intensity using this model is no better than a "naive" model which always predicts the dataset's mean. On the other hand, our model explains more than 30% of the variability in the data. The rest of the variance is attributed to features that our model doesn't (and shouldn't) capture, such as occupant behavior and building systems' quality. 
 
 In the Sankey diagram below we show the interactions between our grades for NYC and the Energy Star-based scheme that was recently adopted by the City. We show that more than 40% of the properties analyzed receive different grades under the two grading schemes. In some cases we even see buildings receiving "A" under the NYC-GREEN, while their Energy Star grade being "C" or "D". 
 

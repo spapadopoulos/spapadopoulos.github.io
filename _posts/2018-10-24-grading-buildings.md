@@ -40,7 +40,7 @@ See how Energy Star is not capable of explaining any of the variance in the data
 In the Sankey diagram below we show the interactions between our grades for NYC and the Energy Star-based scheme that was recently adopted by the City. We show that more than 40% of the properties analyzed receive different grades under the two grading schemes. In some cases we even see buildings receiving "A" under the NYC-GREEN, while their Energy Star grade being "C" or "D". 
 
 ![](/assets/img/sankeyPlotPlotly_4classes.png)
-<img src="/assets/img/sankeyPlotPlotly_4classes.png" width="600">
+<img src="/assets/img/sankeyPlotPlotly_4classes.png" width="1000">
 
 
 ## Final thoughts

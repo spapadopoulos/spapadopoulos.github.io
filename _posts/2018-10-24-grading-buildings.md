@@ -33,13 +33,13 @@ With these four points in mind we develop the GREEN index, a city-specific energ
 ## The findings 
 When we fit our GREEN model on NYC data and compare it with its equivalent Energy Star, we are not surprised by the results.
 
-<img src="/assets/img/XGB_model_vESS.png" width="800">
+<img src="/assets/img/goodness_of_fit.png" width="800">
 
 See how Energy Star is not capable of explaining any of the variance in the data. Practically, predicting energy use intensity using this model is no better than a "naive" model which always predicts the dataset's mean. On the other hand, our model explains more than 30% of the variability in the data. The rest of the variance is attributed to features that our model doesn't (and shouldn't) capture, such as occupant behavior and building systems' quality. 
 
 In the Sankey diagram below we show the interactions between our grades for NYC and the Energy Star-based scheme that was recently adopted by the City. We show that more than 40% of the properties analyzed receive different grades under the two grading schemes. In some cases we even see buildings receiving "A" under the NYC-GREEN, while their Energy Star grade being "C" or "D". 
 
-<img src="/assets/img/sankeyPlotPlotly_4classes.png" width="800">
+<img src="/assets/img/sankey.png" width="800">
 
 
 ## Final thoughts

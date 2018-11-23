@@ -47,4 +47,4 @@ Although climate action by cities is a vivid topic of discussion, the use of dat
 
 Moreover, cities should start promoting market-specific and contextualized metrics to address not only energy, but any urban challenge they might face. Given the abundance of data and the unique characteristics of each city, local governments might need to come up with bottom-up solutions that compliment federal policies. 
 
-For more details, you can find the full paper [here](https://www.sciencedirect.com/science/article/pii/S030626191831612X).
+For more details, you can read the full paper [here](https://www.sciencedirect.com/science/article/pii/S030626191831612X) and check the project code repository [here](https://github.com/spapadopoulos/GREENgrading).

@@ -1,3 +1,12 @@
+---
+layout: post
+title: "AI in Civil Engineering"
+author: "Sokratis Papadopoulos"
+categories: journal
+tags: [documentation,sample]
+image: books.jpg
+---
+
 We live in an era where buzzwords such as “artificial intelligence” or “deep learning” are gaining increasing interest from the general 
 audience, on top of the academic community. There is no doubt that we are part of the fourth industrial revolution, and tech companies are 
 investing more and more funds in AI research.  

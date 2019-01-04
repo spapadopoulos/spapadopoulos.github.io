@@ -24,4 +24,6 @@ I split the search into “machine learning” and “deep learning”, with the
 
 This is definitely a promising outlook for the future of AI and civil engineering. There is no shortage of applications where AI can help 
 monitor, understand and improve civil/urban engineering systems, including urban infrastructure management, traffic optimization or BIM 
-improvement to name a few. Looking forward to see more advancements in 2019.  
+improvement to name a few. Looking forward to see more advancements in 2019.
+
+The code used to scrape the data can be found [here](https://github.com/spapadopoulos/AI-in-civil-engineering).

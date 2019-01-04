@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI in Civil Engineering"
+title: "AI and Civil Engineering"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]

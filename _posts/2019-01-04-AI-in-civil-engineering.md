@@ -4,7 +4,7 @@ title: "AI and Civil Engineering"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]
-image: books.jpg
+image: civil-engineering-artificial-intelligence.jpg
 ---
 
 We live in an era where buzzwords such as “artificial intelligence” or “deep learning” are gaining increasing interest from the general 

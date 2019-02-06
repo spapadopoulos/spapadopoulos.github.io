@@ -14,5 +14,5 @@ Prior to joining NYU, I received my M.S. in Engineering Systems & Management fro
 
 My diverse experience of Europe, Middle East and the US, has inspired me to further study the complex socio-technical challenges cities worldwide face. 
 
-Find my resume <a href="{{ site.url }}/assets/img/S. Papadopoulos - Resume.pdf" target="_blank">here</a>.
+Find my resume <a href="{{ site.url }}/assets/img/resume.pdf" target="_blank">here</a>.
 

@@ -24,7 +24,7 @@ Even with things that might be irrelevant to research; when I needed to build a 
 This problem-solving, self-learning and persistence mentality has so much value and will help you in aspects of your life, beyond research.
 
 
-# Be consious that it's gonna be hard
+## Be consious that it's gonna be hard
 
 Hard in many aspects. The profound one is research itself; during a PhD you explore areas that no one has been before. On top of that, your work is frequently reviewed/criticized by people with years or decades of domain expertise. Every time you present something you need to know your thing and be ready 
 to defend your arguments. It’s quite hard to bullshit them!

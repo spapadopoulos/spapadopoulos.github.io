@@ -26,7 +26,7 @@ This problem-solving, self-learning and persistence mentality has so much value 
 
 ## Be consious that it's gonna be hard
 
-Hard in many aspects. The profound one is research itself; during a PhD you explore areas that no one has been before. On top of that, your work is frequently reviewed/criticized by people with years or decades of domain experience. Every time you present something you need to know your thing and be ready 
+Hard in many aspects. The profound one is research itself; during a PhD you explore areas that no one has been before. On top of that, your work is frequently reviewed/criticized by people with years or decades of domain expertise. Every time you present something you need to know your thing and be ready 
 to defend your arguments. It’s quite hard to bullshit them!
 
 That’s one side of it. You also need to deal with the fact that for the next few years of your life you will be doing a job that worth lots more than what you are getting paid. 

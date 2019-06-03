@@ -8,7 +8,7 @@ image: zen-circle.png
 ---
 
 Many argue that the PhD years can be one of the most stressful periods in 
-one's life. In fact, recently academics decided to come together to recognize and address this [problem](https://www.nature.com/articles/d41586-019-01492-0). (Good job Nature!)
+one's life. In fact, recently academics decided to come together to recognize and address the [issue](https://www.nature.com/articles/d41586-019-01492-0). (Good job Nature!)
 
 In my case, getting a PhD was far from that. Here I put together a list of things that helped me finish my PhD smoothly, without compromising my mental health.
 

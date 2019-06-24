@@ -28,12 +28,5 @@ improvement to name a few. Looking forward to see more advancements in 2019.
 
 The code used to scrape the data can be found [here](https://github.com/spapadopoulos/AI-in-civil-engineering).
 
-<iframe src="/assets/img/nyc_neighborhoods.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+{% include cuisineYelpRatingsCopy.html %}
 

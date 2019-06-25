@@ -4,6 +4,7 @@ title: "AI and Civil Engineering"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]
+bokeh: true
 image: civil-engineering-artificial-intelligence.jpg
 ---
 
@@ -27,3 +28,5 @@ monitor, understand and improve civil/urban engineering systems, including urban
 improvement to name a few. Looking forward to see more advancements in 2019.
 
 The code used to scrape the data can be found [here](https://github.com/spapadopoulos/AI-in-civil-engineering).
+
+{% include cuisineRatingsEmbed.html  %}

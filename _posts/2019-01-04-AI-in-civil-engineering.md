@@ -28,3 +28,5 @@ improvement to name a few. Looking forward to see more advancements in 2019.
 
 The code used to scrape the data can be found [here](https://github.com/spapadopoulos/AI-in-civil-engineering).
 
+{% includes cuisineRatingsEmbed.html %}
+

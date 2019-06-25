@@ -4,7 +4,6 @@ title: "AI and Civil Engineering"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]
-bokeh: true
 image: civil-engineering-artificial-intelligence.jpg
 ---
 

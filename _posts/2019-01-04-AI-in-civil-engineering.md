@@ -27,14 +27,3 @@ monitor, understand and improve civil/urban engineering systems, including urban
 improvement to name a few. Looking forward to see more advancements in 2019.
 
 The code used to scrape the data can be found [here](https://github.com/spapadopoulos/AI-in-civil-engineering).
-
-{% includes cuisineRatingsEmbed.html %}
-
-<iframe src="/assets/img/flowers.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>

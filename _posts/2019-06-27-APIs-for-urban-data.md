@@ -64,7 +64,7 @@ The function arguments are the business category, which in this context is resta
 
 It's easy to see that the actual request is essentially one line of code! Then, I am reading the request as json and convert it to a pandas dataframe for easier data manipulation later on.
 
-There are also Python packages like [this]([https://github.com/Yelp/yelp-python](https://github.com/Yelp/yelp-python)) and [this]([https://github.com/gfairchild/yelpapi](https://github.com/gfairchild/yelpapi)) that simplify the requests of Yelp API, but I personally prefer writing it from scratch to better understand the ins and outs of the process. 
+There are also Python packages like [this](https://github.com/Yelp/yelp-python) and [this](https://github.com/gfairchild/yelpapi) that simplify the requests of Yelp API, but I personally prefer writing it from scratch to better understand the ins and outs of the process. 
 
 ## Insights
 

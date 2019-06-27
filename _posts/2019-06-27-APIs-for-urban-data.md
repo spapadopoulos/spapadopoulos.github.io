@@ -82,8 +82,6 @@ We see that Williamsburg, Greenpoint, Lower East Side, and Astoria have among th
 
 What about the debate of which cuisine is best? Well, data can answer that. 
 
-![](/assets/img/APIpost/cuisineYelpRatings.png  "Cuisine ratings")
-
 <p align="center">
 <img src="/assets/img/APIpost/cuisineYelpRatings.png" width="450" height="600" title="Cuisine ratings">
 </p>

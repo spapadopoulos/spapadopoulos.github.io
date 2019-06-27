@@ -43,7 +43,7 @@ def getYelpData(apiKey, businessCat, location):
     headers = {'Authorization': 'Bearer %s' % apiKey}
     
     # API url
-    url='https://api.yelp.com/v3/businesses/search'
+    url = 'https://api.yelp.com/v3/businesses/search'
     
     # set request parameters
     params = {'term': businessCat, 'location': location, 'limit': 50}
@@ -74,7 +74,7 @@ Once we query Yelp for each neighborhood we can aggregate the data and get meani
 
 We see that Williamsburg, Greenpoint, Lower East Side, and Astoria have among the highest ratings, but if you are really a foodie Sunnyside is your place (red marked area). 
 
-![](ADD CHOROPLETH  "Yelp rating choropleth")
+![](APIpost/choropleth.png  "Yelp rating choropleth")
 
 
 ### Highest-rated cuisines

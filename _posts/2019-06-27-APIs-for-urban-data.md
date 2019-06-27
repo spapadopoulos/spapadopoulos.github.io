@@ -18,7 +18,7 @@ First we need to define NYC neighborhoods. An approach would be to split the cit
 
 I use [Folium]([https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)) to plot the map of NYC neighborhoods and their centroids.
 
-![](ADD NEIGHBORHOOD  "nyc neigh")
+![](/assets/img/APIpost/nyc_neighborhoods.png  "NYC neighborhoods")
 
 ## Call Yelp API
 
@@ -75,14 +75,14 @@ Once we query Yelp for each neighborhood we can aggregate the data and get meani
 We see that Williamsburg, Greenpoint, Lower East Side, and Astoria have among the highest ratings, but if you are really a foodie Sunnyside is your place (red marked area). 
 
 
-![](/assets/img/APIpost/choropleth.png  "Yelp rating choropleth" =50x50)
+![](/assets/img/APIpost/choropleth.png  "Neighborhood rating choropleth")
 
 
 ### Highest-rated cuisines
 
 What about the debate of which cuisine is best? Well, data can answer that. 
 
-![](ADD BAR  "Bar chart")
+![](/assets/img/APIpost/cuisineYelpRatings.png  "Bar chart")
 
 Wine bars are leading the chart, followed by French. Korean, Mediterranean, and Greek complete the top 10 (way to go Greece!). 
 

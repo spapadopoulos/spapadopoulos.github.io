@@ -16,7 +16,7 @@ In this post I am showing how to access urban data through APIs. Specifically, w
 
 First we need to define NYC neighborhoods. An approach would be to split the city by the zip codes, but this can be hard to interpret. I find Airbnb's neighborhood definition very intuitive and you can access the neighborhood boundary _geojson_ file for NYC  [here](http://data.insideairbnb.com/united-states/ny/new-york-city/2019-06-02/visualisations/neighbourhoods.geojson).
 
-I use [Folium]([https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)) to plot the map of NYC neighborhoods and their centroids.
+I use [Folium](https://python-visualization.github.io/folium/) to plot the map of NYC neighborhoods and their centroids.
 
 ![](/assets/img/APIpost/nyc_neighborhoods.png  "NYC neighborhoods")
 

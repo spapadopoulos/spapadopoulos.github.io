@@ -75,7 +75,7 @@ Once we query Yelp for each neighborhood we can aggregate the data and get meani
 We see that Williamsburg, Greenpoint, Lower East Side, and Astoria have among the highest ratings, but if you are really a foodie Sunnyside is your place (red marked area). 
 
 
-![](/assets/img/APIpost/choropleth.png  "Yelp rating choropleth")
+![](/assets/img/APIpost/choropleth.png  "Yelp rating choropleth" =50x50)
 
 
 ### Highest-rated cuisines

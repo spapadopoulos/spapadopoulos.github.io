@@ -90,3 +90,5 @@ Wine bars are leading the chart, followed by French. Korean, Mediterranean, and 
 ## Final thoughts
 
 Here we show how to request data from the Yelp API in few easy steps. There is no shortage of similar APIs to play with (Foursquare, Google Places, Zomato to name a few). Such data can be used in all sorts of urban analyses from measuring neighborhood quality to identifying new hot spots. 
+
+You can find the supporting Jupyter notebook for this post [here](https://github.com/spapadopoulos/NYC-Restaurant-Yelp-Ratings/blob/master/neighborhood-restaurant-ratings-NYC.ipynb).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APIs for urban data"
+title: "API requests for urban data"
 author: "Sokratis Papadopoulos"
 categories: journal
 tags: [documentation,sample]

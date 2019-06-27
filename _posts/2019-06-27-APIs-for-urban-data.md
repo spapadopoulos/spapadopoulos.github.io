@@ -82,7 +82,9 @@ We see that Williamsburg, Greenpoint, Lower East Side, and Astoria have among th
 
 What about the debate of which cuisine is best? Well, data can answer that. 
 
-![](/assets/img/APIpost/cuisineYelpRatings.png  "Cuisine ratings"){ height=50% }
+![](/assets/img/APIpost/cuisineYelpRatings.png  "Cuisine ratings")
+
+<img src="/assets/img/APIpost/cuisineYelpRatings.png" width="654" height="384" title="GREEN methodology">
 
 Wine bars are leading the chart, followed by French. Korean, Mediterranean, and Greek complete the top 10 (way to go Greece!). 
 

@@ -89,6 +89,4 @@ Wine bars are leading the chart, followed by French. Korean, Mediterranean, and 
 
 ## Final thoughts
 
-Here we show how to request data from the Yelp API in few easy steps. Such data can be used in all sorts of urban analyses and there is no shortage of APIs to play with (Foursquare, Google Places, Zomato to name a few). 
-
-
+Here we show how to request data from the Yelp API in few easy steps. There is no shortage of similar APIs to play with (Foursquare, Google Places, Zomato to name a few). Such data can be used in all sorts of urban analyses from measuring neighborhood quality to identifying new hot spots. 

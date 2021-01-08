@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img alt="me" src="{{ site.url }}/assets/img/bnw2.png" height="250px" width="150px" align="left" style="margin-right: 20px;">
+<img alt="me" src="//assets/img/bnw2.png" height="250px" width="150px" align="left" style="margin-right: 20px;">
 
 Hey there! This is my personal blog/website where I post about my work, experiences and small projects I am doing on lazy weekends. 
 
